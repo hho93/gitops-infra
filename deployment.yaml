@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: react-app
-          image: hhostudioai/gitops01:949d1ba6bb7355e6f8e18622e4e6df938e1cd255
+          image: hhostudioai/gitops01:ac3d93c423ea6d0acb6e8383852a87c99c5adde8@linux/arm64
           imagePullPolicy: Always
           ports:
             - containerPort: 80
